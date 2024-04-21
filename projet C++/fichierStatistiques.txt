@@ -1,0 +1,15 @@
+Mois: 1
+Année: 2024
+Nombre total de clients: 1
+Durée moyenne de session: 1
+les personnes: 
+le client: ID: 6
+Nom: kl
+Prenom: kl
+Adresse: f
+sessions
+  Session 2 dure : 0 heures et 22 minutes
+
+Points: 10
+factures
+

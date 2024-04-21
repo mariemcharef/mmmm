@@ -1,0 +1,9 @@
+la personne n° :1
+ID: 4
+Nom: 4
+Prenom: 4
+Adresse: 4
+sessions
+  Session 4 dure : 0 heures et 44 minutes
+
+

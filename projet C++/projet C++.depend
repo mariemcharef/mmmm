@@ -1,0 +1,203 @@
+# depslib dependency file v1.0
+1713677153 source:c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\main.cpp
+	<iostream>
+	<string>
+	"poste.h"
+	"poste.cpp"
+	"machine.h"
+	"machine.cpp"
+	"personne.h"
+	"personne.cpp"
+	"client.h"
+	"client.cpp"
+	"membre.h"
+	"membre.cpp"
+	"admin.h"
+	"admin.cpp"
+	"admin_sys.h"
+	"admin_sys.cpp"
+	"statistic.h"
+	"statistics.cpp"
+	"boisson.h"
+	"boisson.cpp"
+	"service.h"
+	"service.cpp"
+	"facture.h"
+	"promotion.h"
+	"tarif.h"
+	"tarifboisson.h"
+	"tarifservice.h"
+	"session.h"
+	"session.cpp"
+	"facture.cpp"
+	"promotion.cpp"
+	"tarif.cpp"
+	"tarifboisson.cpp"
+	"tarifservice.cpp"
+	<fstream>
+	<iomanip>
+	<vector>
+	<map>
+	<list>
+	<fstream>
+	<cstdlib>
+
+1713620241 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\poste.h
+	"machine.h"
+	<list>
+	<iterator>
+	<algorithm>
+	<map>
+	"session.h"
+
+1713612410 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\machine.h
+	<iostream>
+	<string>
+	<vector>
+
+1713620916 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\statistic.h
+	"membre.h"
+	"personne.h"
+	"client.h"
+	<string>
+	<typeinfo>
+	<map>
+	<vector>
+	<algorithm>
+	<iostream>
+
+1713620571 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\personne.h
+	"session.h"
+	<string>
+	<fstream>
+
+1713634811 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\session.h
+	<fstream>
+
+1713632479 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\facture.h
+	<vector>
+	"tarif.h"
+	"tarifservice.h"
+	"tarifboisson.h"
+	"promotion.h"
+
+1713676033 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\statistics.cpp
+	"statistic.h"
+	"personne.h"
+	"client.h"
+	"membre.h"
+
+1713620856 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\personne.cpp
+	"personne.h"
+	"session.h"
+	<string>
+
+1713620856 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\poste.cpp
+	"poste.h"
+	"machine.h"
+	<iostream>
+
+1713612497 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\machine.cpp
+	"machine.h"
+	<iostream>
+	<string>
+
+1713634922 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\session.cpp
+	"session.h"
+	<fstream>
+
+1713632514 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\facture.cpp
+	"facture.h"
+	<string>
+	<iostream>
+	<vector>
+	<typeinfo>
+
+1713612410 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\client.cpp
+	"client.h"
+
+1713612949 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\client.h
+	"personne.h"
+	"facture.h"
+	<fstream>
+	<iostream>
+
+1713672344 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\membre.cpp
+	"membre.h"
+
+1713631595 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\membre.h
+	"client.h"
+	<fstream>
+	<string>
+	<iostream>
+
+1713614507 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\tarif.cpp
+	"tarif.h"
+	<iostream>
+	<cstdlib>
+
+1713614198 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\tarif.h
+	<iostream>
+	<string>
+
+1713606454 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\tarifservice.h
+	<string>
+	<map>
+	"tarif.h"
+	"service.h"
+
+1713525093 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\tarifboisson.h
+	"tarif.h"
+	"boisson.h"
+	<string>
+	<list>
+
+1713605907 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\boisson.h
+	<string>
+
+1713605965 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\promotion.h
+	<iostream>
+
+1713611780 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\service.h
+	<string>
+
+1713607194 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\admin.h
+	"admin.h"
+
+1713629348 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\admin_sys.h
+
+1713625975 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\admin.cpp
+	"admin.h"
+
+1713531760 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\admin_sys.cpp
+	"admin_sys.h"
+
+1713634486 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\boisson.cpp
+	<iostream>
+	<string>
+	"boisson.h"
+
+1713611600 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\service.cpp
+	<iostream>
+	<string>
+	"service.h"
+
+1713632604 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\promotion.cpp
+	"promotion.h"
+	<iostream>
+
+1713613952 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\tarifboisson.cpp
+	"tarifboisson.h"
+	"boisson.h"
+	<iostream>
+	<string>
+	<algorithm>
+
+1713525339 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\tarifservice.cpp
+	"tarifservice.h"
+	"service.h"
+	<iostream>
+	<string>
+	<map>
+	<algorithm>
+
